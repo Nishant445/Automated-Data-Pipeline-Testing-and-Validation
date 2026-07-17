@@ -1,0 +1,6 @@
+# Model files & large data
+*.pkl
+*.h5
+*.sqlite3
+*.csv
+data/
